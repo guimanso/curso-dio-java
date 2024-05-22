@@ -16,6 +16,7 @@ Repositório para armazenar resumos das aulas do curso de versionamento de códi
 ```
 $ git init
 $ git push
+$ git commit
 ```
 
 ## 🔍 Referências
